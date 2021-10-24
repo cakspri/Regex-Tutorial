@@ -97,4 +97,4 @@ The most basic regular expression consists of a single literal character, such a
 
 
 ## Author
-This RegEx Tutorial was created by <a href="https://github.com/DionneNoellaBarretto">Dionne Noella Barretto</a>
+This RegEx Tutorial was created by <a href="https://github.com/cakspri">Kashyap Sharma</a>
