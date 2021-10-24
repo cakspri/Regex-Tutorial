@@ -1,6 +1,6 @@
 # Registry Expressions (RegEx) 101 Tutorial
 
-**RegEx** OR Regular Expressions define a search pattern that can be used to search specific characters/formats in an input string. This tutorial explains how a specific regular expression, or regex, functions by breaking down each part or component i.e. [#regex-components](https://github.com/DionneNoellaBarretto/16-Regex_Tutorial_Gist/blob/main/gist-template.md#regex-components) of the expression and describing what it does.
+**RegEx** OR Regular Expressions define a search pattern that can be used to search specific characters/formats in an input string. This tutorial explains how a specific regular expression, or regex, functions by breaking down each part or component i.e.  of the expression and describing what it does.
 
 ## Summary
 
@@ -97,4 +97,4 @@ The most basic regular expression consists of a single literal character, such a
 
 
 ## Author
-This RegEx Tutorial was created by <a href="https://github.com/DionneNoellaBarretto">Dionne Noella Barretto</a>
+This RegEx Tutorial was created by <a href="https://github.com/DionneNoellaBarretto">kashyap Sharma</a>
