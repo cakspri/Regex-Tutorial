@@ -1,8 +1,8 @@
 # Computer Science for JavaScript: Regex Tutorial
 
 ## GIST LINK
-[RegEx_Tutorial_By_DNB.md](https://gist.github.com/DionneNoellaBarretto/881ee7f86ebf69d6caab8762e757fef9) <br>
-[Repo ReadMe](https://dionnenoellabarretto.github.io/16-Regex_Tutorial_Gist/)
+[RegEx_Tutorial_By_DNB.md](https://github.com/cakspri/Regex-Tutorial/blob/main/gist-regexTutorial_DNB.md) <br>
+[Repo ReadMe](https://github.com/cakspri/Regex-Tutorial)
 
 ## Task
 
